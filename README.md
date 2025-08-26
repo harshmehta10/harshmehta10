@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harsh Mehta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshmehta10&label=Profile%20views&color=0e75b6&style=flat" alt="harshmehta10" /> </p>
+<p align="left"> <link type="image/png" sizes="96x96" rel="icon" href=".../icons8-coder-external-flaticons-lineal-color-flat-icons-96.png"> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshmehta10" alt="harshmehta10" /></a> </p>
 
@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://harshmehtaa.netlify.app/](https://harshmehtaa.netlify.app/)
 
-- 💬 Ask me about **React , Javascript ,**
+- 💬 Ask me about **React , Javascript**
 
 - 📫 How to reach me **harshmehta.srm2002@gmail.com**
 
