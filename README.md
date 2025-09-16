@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **KittySplit**
 
-- 🌱 I’m currently learning **Node js, Express js , MongoDb, mySQL**
+- 🌱 I’m currently learning **GO, Nextjs, mySQL , DSA/System Design**
 
 - 👨‍💻 All of my projects are available at [https://harshmehtaa.netlify.app/](https://harshmehtaa.netlify.app/)
 
